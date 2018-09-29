@@ -28,7 +28,7 @@ module.exports.routes = {
     view: 'pages/homepage'
   },
 
-  'get /test' : 'ApiController.getData'
+  'get /getTweets' : 'ApiController.getData'
 
   /***************************************************************************
   *                                                                          *
