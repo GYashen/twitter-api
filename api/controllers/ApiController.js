@@ -18,7 +18,7 @@ module.exports = {
             cache: "no-cache",
             credentials: "same-origin",
             headers : {
-                Authorization : 'Bearer AAAAAAAAAAAAAAAAAAAAAPdX8QAAAAAAm5GPqkxL1bYv1%2BSDFah9USmzJDc%3DWSETDTy2TTIEVlNKO00bjFQdiq6cePEXTupkhvZhXF4d6ocLRD'
+                //Authorization : ''
             },
             redirect: "follow",
             referrer: "no-referrer",
